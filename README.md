@@ -1,2 +1,2 @@
-# Calculator-
-Make an Scientific Calculator App Using Java Script 
+# Simple_Calculator_Switch-case_Java
+This is a code of simple calculator using Switch-Case in Java
